@@ -19,7 +19,7 @@ Think of it as Minecraft — but smoother, clearer, and more refined.
 
 ## 📦 Installation
 1. Download the modpack from [CurseForge](https://legacy.curseforge.com/minecraft/modpacks/purely-polished) or [Modrinth](https://modrinth.com/modpack/purelypolished).
-2. Install using your preferred launcher (e.g., **Prism Launcher** or **CurseForge App**).
+2. Install using your preferred launcher (e.g., **Prism Launcher** or **Modrinth App**).
 3. Select the *Purely Polished* profile and start playing!
 
 ---
