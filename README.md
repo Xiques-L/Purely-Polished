@@ -1,4 +1,4 @@
-# 🌟 Purely Polished
+# 🌟 Purely Polished ![Purely Polished Banner](https://cdn.modrinth.com/data/cached_images/812944ac6a47fef0ced8b48ef039fafcea16664a.webp)
 *Visual & QoL enrichments Modpack*
 
 ---
