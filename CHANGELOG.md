@@ -14,7 +14,7 @@ This project follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PAT
 - Updated [Stfu](https://modrinth.com/mod/shuttfup)
 
 ### 🗑️ Removed
-- Removed [Model Gap Fix](https://modrinth.com/mod/modelfix)
+- [Model Gap Fix](https://modrinth.com/mod/modelfix)
 
 ---
 
