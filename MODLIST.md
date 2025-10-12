@@ -51,7 +51,6 @@
 - [M\.R\.U](https://modrinth.com/mod/SNVQ2c0g) by IMB11 \(mineblock11\)
 - [Mica](https://modrinth.com/mod/ku1JKosh) by LemonCaramel
 - [Mod Menu](https://modrinth.com/mod/mOgUt4GM) by Prospector, haykam821, TerraformersMC
-- [Model Gap Fix](https://modrinth.com/mod/QdG47OkI) by MehVahdJukaar
 - [More Culling](https://modrinth.com/mod/51shyZVL) by FX \- PR0CESS, 1Foxy2
 - [Mouse Tweaks](https://modrinth.com/mod/aC3cM3Vq) by Ivan Molodetskikh \(YaLTeR\)
 - [No Resource Pack Warnings](https://modrinth.com/mod/6xKUDQcB) by Space Walker
