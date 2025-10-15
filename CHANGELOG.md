@@ -5,6 +5,21 @@ This project follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PAT
 
 ---
 
+## [1.0.2] – 2025-10-15
+
+### 🔧 Changed
+- Updated [Async](https://modrinth.com/mod/async)
+- Updated [Client Sort](https://modrinth.com/mod/clientsort)
+- Updated [Fancy Toasts | Better Advancements](https://modrinth.com/mod/fancy-toasts)
+- Updated [Fresh Food](https://modrinth.com/resourcepack/fresh-food)
+- Updated [Iris Shaders](https://modrinth.com/mod/iris)
+- Updated [LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)
+- Updated [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+- Updated [Packed Packs](https://modrinth.com/mod/packed-packs)
+- Updated [Sodium](https://modrinth.com/mod/sodium)
+
+---
+
 ## [1.0.1] – 2025-10-10
 
 ### 🔧 Changed
