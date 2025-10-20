@@ -5,6 +5,27 @@ This project follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PAT
 
 ---
 
+## [1.1.0] – 2025-10-20
+
+### ✨ Added:
+- [Fresh Ores and Ingots](https://modrinth.com/resourcepack/fresh-ores-and-ingots)
+- [Fresh Paintings](https://modrinth.com/resourcepack/fresh-paintings)
+
+### 🔧 Updated:
+- [AsyncParticles](https://modrinth.com/mod/asyncparticles)
+- [Client Sort](https://modrinth.com/mod/clientsort)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [Fresh Buckets](https://modrinth.com/resourcepack/fresh-buckets)
+- [Fresh Food](https://modrinth.com/resourcepack/fresh-food)
+- [Fresh Music Discs](https://modrinth.com/resourcepack/fresh-music-discs)
+- [LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+
+### 🗑️ Removed:
+- [3D Tools and Utils](https://modrinth.com/resourcepack/tools-and-utils)
+
+---
+
 ## [1.0.2] – 2025-10-15
 
 ### 🔧 Changed
