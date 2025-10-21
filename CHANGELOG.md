@@ -5,6 +5,15 @@ This project follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PAT
 
 ---
 
+## [1.1.1] – 2025-10-22
+
+### 🔧 Updated:
+- [Fresh Flowers and Plants](https://modrinth.com/resourcepack/fresh-flowers-and-plants)
+- [Fresh Ores and Ingots](https://modrinth.com/resourcepack/fresh-ores-and-ingots)
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+
+---
+
 ## [1.1.0] – 2025-10-20
 
 ### ✨ Added:
