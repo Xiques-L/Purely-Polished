@@ -5,6 +5,18 @@ This project follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PAT
 
 ---
 
+## [1.1.2] – 2025-10-22
+
+### ✨ Added:
+- [Polytone](https://modrinth.com/mod/polytone)
+### 🗑️ Removed:
+- [Weskerson's Torches](https://modrinth.com/resourcepack/weskersons-torches)
+### 🔧 Updated:
+- [(Bee's) Fancy Crops](https://modrinth.com/resourcepack/fancy-crops)
+- [Enchantment Outline](https://modrinth.com/resourcepack/enchantment-outline)
+
+---
+
 ## [1.1.1] – 2025-10-22
 
 ### 🔧 Updated:
