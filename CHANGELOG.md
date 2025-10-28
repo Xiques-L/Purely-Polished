@@ -5,6 +5,26 @@ This project follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PAT
 
 ---
 
+## [1.2.0] – 2025-10-28
+
+### ✨ Added:
+- [Raise Sound Limit Simplified](https://modrinth.com/mod/rsls)
+### 🗑️ Removed:
+- [Async Pack Scan](https://modrinth.com/mod/async-pack-scan)
+### 🔧 Updated:
+- [Client Sort](https://modrinth.com/mod/clientsort)
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+- [Fresh Flower Pots](https://modrinth.com/resourcepack/fresh-flower-pots)
+- [Packed Packs](https://modrinth.com/mod/packed-packs)
+- [Particle Rain](https://modrinth.com/mod/particle-rain)
+- [Puzzles Lib](https://modrinth.com/mod/puzzles-lib)
+- [Recolourful Containers GUI + HUD](https://modrinth.com/resourcepack/recolourful-containers-gui)
+- [Recolourful Containers GUI + HUD (DARK)](https://modrinth.com/resourcepack/recolourful-containers-gui-hud-dark)
+- [Subtle Effects](https://modrinth.com/mod/subtle-effects)
+- [Fabric-loader (mod loader)](https://fabricmc.net/)
+
+---
+
 ## [1.1.2] – 2025-10-22
 
 ### ✨ Added:
