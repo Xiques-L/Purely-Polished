@@ -5,6 +5,17 @@ This project follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PAT
 
 ---
 
+## [1.2.1] – 2025-10-30
+
+### Removed:
+- [qrafty's Capitalized Font](https://modrinth.com/resourcepack/qraftys-capitalized-font)
+### Updated:
+- [Recolourful Containers GUI + HUD](https://modrinth.com/resourcepack/recolourful-containers-gui)
+- [Recolourful Containers GUI + HUD (DARK)](https://modrinth.com/resourcepack/recolourful-containers-gui-hud-dark)
+- In-game configs
+
+---
+
 ## [1.2.0] – 2025-10-28
 
 ### ✨ Added:
