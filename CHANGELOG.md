@@ -5,6 +5,19 @@ This project follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PAT
 
 ---
 
+## [1.2.2] – 2025-11-11
+
+### Added:
+- [Fyoncle's 3D Trims](https://modrinth.com/resourcepack/fyoncles-3d-trims)
+- [Horse Armor & Stuff x Fresh Animations](https://modrinth.com/resourcepack/horse-armor-stuff-x-fresh-animations)
+### Updated:
+- [Fresh Food](https://modrinth.com/resourcepack/fresh-food)
+- [LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)
+- [Packed Packs](https://modrinth.com/mod/packed-packs)
+- [Sodium](https://modrinth.com/mod/sodium)
+
+---
+
 ## [1.2.1] – 2025-10-30
 
 ### 🗑️ Removed:
