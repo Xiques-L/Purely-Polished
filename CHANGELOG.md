@@ -5,6 +5,46 @@ This project follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PAT
 
 ---
 
+## [1.3.0] – 2025-11-25
+
+### Added:
+- [3D Armor](https://modrinth.com/mod/armor-3d)
+- [3D Harnesses x Fresh Animations](https://modrinth.com/resourcepack/3d-harnesses-x-fresh-animations)
+- [3D Tools and Utils](https://modrinth.com/resourcepack/tools-and-utils)
+- [AL's Creepers Revamped](https://modrinth.com/resourcepack/als-creepers-revamped)
+- [AL's Piglins Revamped x Fresh Animations](https://modrinth.com/resourcepack/als-piglins-revamped-x-fresh-animations)
+- [Animated Typing](https://modrinth.com/mod/animated-typing)
+- [Atmosfera](https://modrinth.com/mod/atmosfera)
+- [Atmospheric Skies & Fog](https://modrinth.com/resourcepack/atmospheric-skies-fog)
+- [Baby Animals Remastered](https://modrinth.com/resourcepack/baby-animals-remastered)
+- [Better, Fresher 3D books X HMI compat](https://modrinth.com/resourcepack/better,-fresher-3d-books-x-hmi-compat)
+- [Bray's Better Bow & Arrows](https://modrinth.com/resourcepack/brays-better-3d-bow)
+- [Bray's Llamas With Hats](https://modrinth.com/resourcepack/brays-llamas-with-hats)
+- [Chase the Skies](https://modrinth.com/resourcepack/chase-the-skies)
+- [Drodi's Blazes x Fresh Animations](https://modrinth.com/resourcepack/drodis-blazes-x-fresh-animations)
+- [Drodi's Illagers x Fresh Animation](https://modrinth.com/resourcepack/drodis-illagers-fresh-animation)
+- [Enchantment Glint Outline](https://modrinth.com/mod/enchantment-glint-outline)
+- [Fresh Animations: Creepers](https://modrinth.com/resourcepack/fresh-animations-creepers)
+- [Fresh Animations: Details](https://modrinth.com/resourcepack/fresh-animations-details)
+- [Fresh Environment](https://modrinth.com/resourcepack/fresh-environment)
+- [Sound Physics Remastered](https://modrinth.com/mod/sound-physics-remastered)
+- [Story Mode Clouds](https://modrinth.com/resourcepack/story-mode-clouds)
+- [Tears & Cheers - Ghast Revamp](https://modrinth.com/resourcepack/tears-and-cheers)
+### Removed:
+- [Better Clouds](https://modrinth.com/mod/better-clouds)
+- [Font ThaiFix](https://modrinth.com/resourcepack/font-thaifix)
+- [Now Playing](https://modrinth.com/mod/now-playing)
+### Updated:
+- [Client Sort](https://modrinth.com/mod/clientsort)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [Forge Config API Port](https://modrinth.com/mod/forge-config-api-port)
+- [OptiGUI](https://modrinth.com/mod/optigui)
+- [Packet Fixer](https://modrinth.com/mod/packet-fixer)
+- [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)
+- [[ETF] Entity Texture Features](https://modrinth.com/mod/entity-model-features)
+
+---
+
 ## [1.2.2] – 2025-11-11
 
 ### Added:
