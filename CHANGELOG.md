@@ -5,6 +5,30 @@ This project follows [Semantic Versioning](https://semver.org/) (MAJOR.MINOR.PAT
 
 ---
 
+## [1.3.1] – 2025-12-25
+
+### Added:
+- [[HMI] Gous's Hand Poses](https://modrinth.com/resourcepack/hmi-gouss-hand-poses)
+### Updated:
+- [Client Sort](https://modrinth.com/mod/clientsort)
+- [Cool Rain](https://modrinth.com/mod/coolrain)
+- [Dynamic FPS](https://modrinth.com/mod/dynamic-fps)
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+- [Fast IP Ping](https://modrinth.com/mod/fast-ip-ping)
+- [Fzzy Config](https://modrinth.com/mod/fzzy-config)
+- [I See My Armored Hand](https://modrinth.com/mod/ismah)
+- [LambDynamicLights - Dynamic Lights](https://modrinth.com/mod/lambdynamiclights)
+- [Not Enough Animations](https://modrinth.com/mod/not-enough-animations)
+- [Packed Packs](https://modrinth.com/mod/packed-packs)
+- [Particle Effects](https://modrinth.com/mod/particle-effects)
+- [Particle Rain](https://modrinth.com/mod/particle-rain)
+- [Raise Sound Limit Simplified](https://modrinth.com/mod/rsls)
+- [Stfu](https://modrinth.com/mod/shuttfup)
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
+- [[EMF] Entity Model Features](https://modrinth.com/mod/entity-model-features)
+
+---
+
 ## [1.3.0] – 2025-11-25
 
 ### Added:
