@@ -1,12 +1,14 @@
+- [3D Armor](https://modrinth.com/mod/XhxKIfGG) by AvatarKage
 - [Advancements Reloaded](https://modrinth.com/mod/tLuRLqpa) by @42atomys
+- [Animated Typing](https://modrinth.com/mod/r8GP0gUl) by Padej\_
 - [AppleSkin](https://modrinth.com/mod/EsAfCjCV) by squeek502
 - [Architectury](https://modrinth.com/mod/lhGA9TYQ) by shedaniel
 - [Armor Trim Item Fix](https://modrinth.com/mod/kIhxG5zE) by MincraftEinstein
 - [Async](https://modrinth.com/mod/vEC2jm6I) by AxalotL, Alchemy, Bliss, FurryMileon, Grider, jediminer543
-- [Async Pack Scan](https://modrinth.com/mod/FuRR0tKd) by JFronny
 - [AsyncParticles](https://modrinth.com/mod/c3onkd5k) by Harvey\_Husky
+- [Atmosfera](https://modrinth.com/mod/28G1xpgF) by Haven King
 - [Balm](https://modrinth.com/mod/MBAkmtvl) by BlayTheNinth
-- [Better Clouds](https://modrinth.com/mod/5srFLIaK) by Qendolin
+- [Better Enchantment Glint](https://modrinth.com/mod/Qx2rzv1x) by Da0neDatGotAway
 - [Better Statistics Screen](https://modrinth.com/mod/n6PXGAoM) by TheCSDev
 - [BetterF3](https://modrinth.com/mod/8shC1gFX) by cominixo, TreyRuffy
 - [Bobby](https://modrinth.com/mod/M08ruV16) by johni0702
@@ -19,7 +21,7 @@
 - [CollisionFix](https://modrinth.com/mod/CBtq0jWL) by LopyMine, CorgiTaco \[Author\]
 - [Continuity](https://modrinth.com/mod/1IjD5062) by PepperCode1
 - [Controlling](https://modrinth.com/mod/xv94TkTM) by Jaredlll08
-- [CoolRain](https://modrinth.com/mod/iDyqnQLT) by Jaiz
+- [CoolRain](https://modrinth.com/mod/iDyqnQLT) by Jaiz, NeoForge Port and Coding Help:, Leclowndu93150
 - [Cubes Without Borders](https://modrinth.com/mod/ETlrkaYF) by Kir\_Antipov
 - [CursorCentered Fix](https://modrinth.com/mod/3Vf97jLY) by LitnhJacuzzi
 - [Debugify](https://modrinth.com/mod/QwxR6Gcd) by isXander
@@ -56,20 +58,21 @@
 - [No Resource Pack Warnings](https://modrinth.com/mod/6xKUDQcB) by Space Walker
 - [NotEnoughAnimations](https://modrinth.com/mod/MPCX6s5C) by tr7zw
 - [Note Block Tuner](https://modrinth.com/mod/5vF20eac) by A5ho9999
-- [Now Playing](https://modrinth.com/mod/eNF4Bfla) by AppleTheGolden
 - [OctoLib](https://modrinth.com/mod/RH2KUdKJ) by OctoStudios
 - [OptiGUI](https://modrinth.com/mod/JuksLGBQ) by opekope2
 - [Packed Packs](https://modrinth.com/mod/8Pq6Exn2) by fishstiz
 - [PacketFixer](https://modrinth.com/mod/c7m1mi73) by TonimatasDEV
 - [Particle Core](https://modrinth.com/mod/RSeLon5O) by fzzyhmstrs
 - [Particle Effects](https://modrinth.com/mod/PLAGcSFJ) by LopyMine, KlashRaick
-- [Particle Rain](https://modrinth.com/mod/nrikgvxm) by PigCart
+- [Particle Rain](https://modrinth.com/mod/nrikgvxm) by pigcart
 - [Particular Reforged](https://modrinth.com/mod/pYFUU6cq) by Leclowndu93150
 - [Peek](https://modrinth.com/mod/TnOXNf5e) by Max Henkel
 - [Pick Up Notifier](https://modrinth.com/mod/ZX66K16c) by Fuzs
 - [Placeholder API](https://modrinth.com/mod/eXts2L7r) by Patbox
 - [Pling](https://modrinth.com/mod/4bqq2uqn) by haykam821
+- [Polytone](https://modrinth.com/mod/3qAYkBMB) by MehVahdJukaar
 - [Puzzles Lib](https://modrinth.com/mod/QAGBst4M) by Fuzs
+- [Raise Sound Limit Simplified](https://modrinth.com/mod/SKW62Pht) by ishland
 - [Reese's Sodium Options](https://modrinth.com/mod/Bh37bMuy) by FlashyReese
 - [Resource Pack Options](https://modrinth.com/mod/TiF5QWZY) by JFronny
 - [Riding Mouse Fix](https://modrinth.com/mod/kwS02byl) by JustAlittleWolf
@@ -83,6 +86,7 @@
 - [Sodium Extra](https://modrinth.com/mod/PtjYWJkn) by FlashyReese
 - [Sodium Shadowy Path Blocks](https://modrinth.com/mod/EIa1eiMm) by Rynnavinx
 - [Sound Controller](https://modrinth.com/mod/uY9zbflw) by BVengo
+- [Sound Physics Remastered](https://modrinth.com/mod/qyVF9oeo) by Sonic Ether, vlad2305m, Max Henkel, Saint
 - [Sounds](https://modrinth.com/mod/ZouiUX7t) by IMB11
 - [Status Effect Bars](https://modrinth.com/mod/x02cBj9Y) by A5b84
 - [StewDrinkSound](https://modrinth.com/mod/757R1JEL) by Fy17
